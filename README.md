@@ -1,6 +1,5 @@
 # Housing Price Prediction Project
-[Notebook](https://github.com/JoaoCA98/House-Price-Prediction/blob/main/Joao_Ascensao_Regression.ipynb)  
-[Dataset](https://github.com/JoaoCA98/House-Price-Prediction/blob/main/Boston.csv)
+[Notebook](https://github.com/JoaoCA98/House-Price-Prediction/blob/main/Joao_Ascensao_Regression.ipynb)  [Dataset](https://github.com/JoaoCA98/House-Price-Prediction/blob/main/Boston.csv)
 
 Welcome to my Housing Price Prediction project repository! In this project, we aim to predict housing prices for a town or suburb based on various features of the locality. By employing data preprocessing techniques and building a linear regression model, we can predict prices for unseen data and identify the most influential features affecting house prices.
 
